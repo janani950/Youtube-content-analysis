@@ -3,9 +3,13 @@
 Input : YouTube link of Product Making Videos and Product Review Videos
 
 Process:
+
 1.Extracting all YouTube videos threw link 
+
 2.Converting all Video files to audio files in required format 
+
 3.1 Creating a Custom speech to text Model using Coginitive services
+
 3.1.1 Create a resource group in azure for speech services
 3.1.2 Extract hidden service key and hidden subcription key 
 3.1.3 Make a training data of audio (chunk file) in specified formats.
