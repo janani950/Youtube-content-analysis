@@ -1,0 +1,10 @@
+jsons
+flask
+pafy
+requests
+spacy
+moviepy
+mhyt
+pytube
+flask_restful
+azure.cognitiveservices.speech
